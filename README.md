@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MGallery | The Royal Surakarta Heritage, Novotel and ibis styles Solo.
+- 🔭 I’m currently working on MGallery | The Royal Surakarta Heritage, Novotel and ibis styles Solo as IT Officer.
 - 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on Open Source Develpment
+- 👯 I’m looking to collaborate on Open Source Development
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Infrastruture Network Computer
 - 📫 How to reach me: email to : drprawedha@gmail.com
