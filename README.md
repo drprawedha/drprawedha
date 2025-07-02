@@ -6,10 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Swiss-Belinn Saripetojo as Asst. IT Manager and Graphic Design.
-- 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on Open Source Development
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Infrastruture Network Computer
+- 💬 Ask me about Infrastruture Network Computer and Graphic Design
 - 📫 How to reach me: email to : drprawedha@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
