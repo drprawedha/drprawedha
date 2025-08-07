@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**drprawedha/drprawedha** is a ✨ Open-Source Enthusiast ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drprawedha/RHESA** is a ✨ Open-Source Enthusiast ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
